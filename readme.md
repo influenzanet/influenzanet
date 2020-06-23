@@ -15,3 +15,43 @@
 # Influenzanet Issue Collector and Wiki
 
 To submit an issue (bug report, question, suggestion) go to the [issues section](https://github.com/influenzanet/influenzanet/issues).
+
+# Recommended DB indexes:
+
+## Global Infos
+Database: 
+```<Prefix>global-infos```
+Collection: 
+```temp-tokens```
+
+- token
+- userID + instanceID + purpose
+- expiration
+
+## User DB
+Database: 
+```<Prefix><InstanceID>_users```
+Collection: 
+```users```
+
+- accountID
+
+## Study DB
+Database: 
+```<Prefix><InstanceID>_studyDB```
+Collection: 
+```<studyKey>_participants```
+
+- participantID
+- participantID + studyStatus
+
+---
+
+Database: 
+```<Prefix><InstanceID>_studyDB```
+Collection: 
+```<studyKey>_surveyResponses```
+
+- participantID + key + submittedAt
+- participantID
+- submittedAt
