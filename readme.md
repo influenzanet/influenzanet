@@ -9,7 +9,7 @@
 | email-client-service      | messaging-service | v0.5.3 |
 | message-scheduler      | messaging-service | v0.5.3 |
 | messaging-service      | messaging-service | v0.5.3 |
-| web-client      | web-client | v0.3.1 |
+| web-client      | web-client | v0.4.0 |
 
 
 # Influenzanet Issue Collector and Wiki
