@@ -4,7 +4,7 @@
 | -------------- | -------------------- | ----------------:|
 | participant-api      | api-gateway | v0.6.0 |
 | management-api      | api-gateway | v0.6.0 |
-| study-service      | study-service | v0.8.0 |
+| study-service      | study-service | v0.9.0 |
 | user-management-service      | user-management-service | v0.10.0 |
 | email-client-service      | messaging-service | v0.6.0 |
 | message-scheduler      | messaging-service | v0.6.0 |
