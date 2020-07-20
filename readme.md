@@ -6,9 +6,9 @@
 | management-api      | api-gateway | v0.6.0 |
 | study-service      | study-service | v0.8.0 |
 | user-management-service      | user-management-service | v0.10.0 |
-| email-client-service      | messaging-service | v0.5.3 |
-| message-scheduler      | messaging-service | v0.5.3 |
-| messaging-service      | messaging-service | v0.5.3 |
+| email-client-service      | messaging-service | v0.6.0 |
+| message-scheduler      | messaging-service | v0.6.0 |
+| messaging-service      | messaging-service | v0.6.0 |
 | web-client      | web-client | v0.4.1 |
 
 
