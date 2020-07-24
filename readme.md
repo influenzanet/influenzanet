@@ -2,8 +2,8 @@
 
 | Service        | Repository           | Current Version  |
 | -------------- | -------------------- | ----------------:|
-| participant-api      | api-gateway | v0.7.0 |
-| management-api      | api-gateway | v0.7.0 |
+| participant-api      | api-gateway | v0.7.1 |
+| management-api      | api-gateway | v0.7.1 |
 | study-service      | study-service | v0.10.0 |
 | user-management-service      | user-management-service | v0.10.1 |
 | email-client-service      | messaging-service | v0.6.1 |
