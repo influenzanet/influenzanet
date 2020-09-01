@@ -36,6 +36,7 @@ Collection:
 ```users```
 
 - accountID
+- account.accountConfirmedAt + timestamps.createdAt
 
 ## Study DB
 Database: 
