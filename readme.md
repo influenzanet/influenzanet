@@ -36,7 +36,7 @@ Collection:
 ```users```
 
 - accountID
-- account.accountConfirmedAt + timestamps.createdAt
+- account.accountConfirmedAt + timestamps.createdAt -> useful for clean up task (unverified accounts)
 
 ## Study DB
 Database: 
