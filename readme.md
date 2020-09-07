@@ -4,13 +4,13 @@
 | -------------- | -------------------- | ----------------:|
 | participant-api      | api-gateway | v0.9.1 |
 | management-api      | api-gateway | v0.9.1 |
-| study-service      | study-service | v0.11.0 |
+| study-service      | study-service | v0.11.1 |
 | user-management-service      | user-management-service | v0.15.1 |
 | email-client-service      | messaging-service | v0.7.1 |
 | message-scheduler      | messaging-service | v0.7.1 |
 | messaging-service      | messaging-service | v0.7.1 |
 | logging-service      | logging-service | v0.1.0 |
-| web-client      | web-client | v0.10.1 |
+| web-client      | web-client | v0.11.0 |
 
 
 # Influenzanet Issue Collector and Wiki
