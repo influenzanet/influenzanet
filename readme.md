@@ -64,4 +64,4 @@ Database:
 ```<Prefix><InstanceID>_messageDB```
 Collection: 
 ```outgoing-emails```
-- addedAt + highPrio
+- lastSendAttempt + highPrio
