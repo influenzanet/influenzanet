@@ -57,3 +57,11 @@ Collection:
 - participantID + key + submittedAt
 - participantID
 - submittedAt
+
+## Message DB
+
+Database:
+```<Prefix><InstanceID>_messageDB```
+Collection: 
+```outgoing-emails```
+- addedAt + highPrio
