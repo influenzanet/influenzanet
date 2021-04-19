@@ -10,7 +10,6 @@
 | message-scheduler      | messaging-service | v0.9.2 |
 | messaging-service      | messaging-service | v0.9.2 |
 | logging-service      | logging-service | v0.1.0 |
-| web-client      | web-client | v0.21.6 |
 
 
 # Influenzanet Issue Collector and Wiki
