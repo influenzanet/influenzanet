@@ -9,7 +9,7 @@
 | email-client-service      | messaging-service | v0.9.3 |  [open](https://github.com/influenzanet/messaging-service/blob/master/CHANGELOG.md) |
 | message-scheduler      | messaging-service | v0.9.3 | [open](https://github.com/influenzanet/messaging-service/blob/master/CHANGELOG.md) |
 | messaging-service      | messaging-service | v0.9.3 | [open](https://github.com/influenzanet/messaging-service/blob/master/CHANGELOG.md) |
-| logging-service      | logging-service | v0.1.0 | |
+| logging-service      | logging-service | v0.2.0 | |
 
 
 # Influenzanet Issue Collector and Wiki
